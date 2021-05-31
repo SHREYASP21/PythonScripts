@@ -1,0 +1,6 @@
+my_set=set(['a','b','c','d','e'])
+print(my_set)
+my_set1=frozenset(['m','f','h','x','o'])
+print(my_set1)
+my_set2=my_set.copy()
+print(min(my_set2))
